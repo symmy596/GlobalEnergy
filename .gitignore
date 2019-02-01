@@ -1,4 +1,2 @@
-global_power_plant_database.csv
-*.csv
-Section_1/*.csv
-
+Section_1/*
+Section_2/*
